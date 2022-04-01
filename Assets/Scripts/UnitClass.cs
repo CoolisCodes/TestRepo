@@ -6,7 +6,7 @@ public class UnitClass : MonoBehaviour, IInteractable
 {
     public void Interract()
     {
-
+        Debug.Log("interracted!");
     }
 }
 
